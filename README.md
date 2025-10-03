@@ -16,31 +16,39 @@ Passionate about building **data pipelines**, scalable architectures, and backen
 
 ## 🔹 Tech Stack
 
-### 🛠 Programming & Scripting
-- **Python** (pandas, polars, NumPy, PySpark)  
-- **SQL** (PostgreSQL, SQL Server, MySQL)  
-- **JavaScript / TypeScript**  
-
-### 🔄 Data Engineering
-- **ETL/ELT Pipelines** with **PySpark & Airflow**  
-- **Data Modeling & Warehousing** (Star Schema, Snowflake, Redshift)  
-- **Orchestration & Workflow Automation**  
-- **Web Scraping** with BeautifulSoup & Selenium  
+### 🛠 Programming & Data
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+</p>
 
 ### 🌐 Backend Development
-- **FastAPI, Flask, Django** (RESTful APIs, authentication, services/repositories)  
-- **Microservices & Modular Architectures**  
-- **Testing & QA**: Pytest, Unittest, Postman, Cypress, Playwright  
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
 ### ☁️ Cloud & DevOps
-- **AWS**: S3, Lambda, Redshift, CDK, EC2  
-- **Azure**: Data Factory, Synapse, Cognitive Services  
-- **Containerization & CI/CD**: Docker, GitHub Actions, Azure DevOps  
-- **Version Control & Best Practices**: Git, Branching, Code Reviews  
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ### 📊 Analytics & BI
-- **Power BI & Tableau** (dashboards & reports)  
-- **Excel (advanced formulas, pivot tables, automation)**  
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
 ---
 
