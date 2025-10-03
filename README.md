@@ -69,5 +69,5 @@ Passionate about building **data pipelines**, scalable architectures, and backen
 
 ## 🔹 Get in Touch
 - 📫 Email: **fabriziocucina23@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/fabriziocucina/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/fabrizio-cucina/)  
 - 🖥️ [GitHub](https://github.com/fabriziocucina)  
