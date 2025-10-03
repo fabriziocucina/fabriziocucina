@@ -15,16 +15,41 @@ Passionate about building **data pipelines**, scalable architectures, and backen
 ---
 
 ## 🔹 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" />
-</p>  
+
+### 🛠 Programming & Scripting
+- **Python** (pandas, polars, NumPy, PySpark)  
+- **SQL** (PostgreSQL, SQL Server, MySQL)  
+- **JavaScript / TypeScript**  
+
+### 🔄 Data Engineering
+- **ETL/ELT Pipelines** with **PySpark & Airflow**  
+- **Data Modeling & Warehousing** (Star Schema, Snowflake, Redshift)  
+- **Orchestration & Workflow Automation**  
+- **Web Scraping** with BeautifulSoup & Selenium  
+
+### 🌐 Backend Development
+- **FastAPI, Flask, Django** (RESTful APIs, authentication, services/repositories)  
+- **Microservices & Modular Architectures**  
+- **Testing & QA**: Pytest, Unittest, Postman, Cypress, Playwright  
+
+### ☁️ Cloud & DevOps
+- **AWS**: S3, Lambda, Redshift, CDK, EC2  
+- **Azure**: Data Factory, Synapse, Cognitive Services  
+- **Containerization & CI/CD**: Docker, GitHub Actions, Azure DevOps  
+- **Version Control & Best Practices**: Git, Branching, Code Reviews  
+
+### 📊 Analytics & BI
+- **Power BI & Tableau** (dashboards & reports)  
+- **Excel (advanced formulas, pivot tables, automation)**  
+
+---
+
+## 🔹 Certificates
+- Microsoft Certified: **Azure AI Fundamentals (AI-900)**  
+- Microsoft Certified: **Azure Data Fundamentals (DP-900)**  
+- Microsoft Certified: **Azure Fundamentals (AZ-900)**  
+- Astronomer Certification: **Apache Airflow Fundamentals**  
+- Databricks Academy: **Lakehouse Fundamentals**  
 
 ---
 
@@ -37,3 +62,4 @@ Passionate about building **data pipelines**, scalable architectures, and backen
 ## 🔹 Get in Touch
 - 📫 Email: **fabriziocucina23@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/fabriziocucina/)  
+- 🖥️ [GitHub](https://github.com/fabriziocucina)  
